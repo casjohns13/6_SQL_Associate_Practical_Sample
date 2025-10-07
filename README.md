@@ -1,2 +1,5 @@
-# 6_SQL_Associate_Practical_Sample
+# 6. SQL Project: SQL Associate Practical Sample
+My solutions to the SQL Associate Practical Exam Sample
+
+Executed on 02Oct25
  
